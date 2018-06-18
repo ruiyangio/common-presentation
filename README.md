@@ -1,2 +1,2 @@
-# common-presentation
+# presentation-template
 HTML Presentation Template
